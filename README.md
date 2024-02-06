@@ -1,6 +1,6 @@
 Alfred using Mixtral 8x7B with Low Latency TTS
 
-* How To Run *
+** How To Run **
 1. Clone This repo
 2. Before running:
 - create a virtual env
